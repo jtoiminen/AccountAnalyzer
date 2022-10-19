@@ -1,5 +1,5 @@
 # AccountAnalyzer
-My first ever peace of code for Python Keras DNN that categorizes account transactions
+My first ever piece of code for Python Keras DNN that categorizes account transactions
 
 Hello! I'm Jani and I've recently created my very first AI project and made it public here at GitHub. I've had a two-fold career so far as a SW professional and as a poker player. But recently I've wanted to learn something
 totally new that fits my skills. I'm a mathematically oriented MSc. and have been seeing and hearing about AI and neural networks for the past 5 years increasingly. During that time I've slowly started to get myself first
